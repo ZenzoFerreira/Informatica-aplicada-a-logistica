@@ -1,8 +1,4 @@
-Atividade de Informática Operador Multimodais - 28 de Agosto 
-<img width="1353" height="707" alt="Captura de tela 2026-10-23 141805" src="https://github.com/user-attachments/assets/5db4ddb0-b57f-4cbb-9c80-2764694d2c5a" />
 
-
-   
 Atividade desenvolvida para trabalhar a organização e análise da dados utilizando planilha dos dados antt. Foram realizadas questões envolvendo tratamento, interpretação e apresentação dos dados que feitos gráficos com essas informações.
 
 <img width="907" height="560" alt="Captura de tela 2026-10-23 141316" src="https://github.com/user-attachments/assets/52c13721-2b1c-43f5-8756-4d6ac242330a" />
