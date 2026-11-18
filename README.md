@@ -6,6 +6,7 @@ Este repositório reúne as atividades e os projetos desenvolvidos durante a dis
 Seu objetivo é registrar e apresentar os conhecimentos adquiridos ao longo do semestre, principalmente na utilização de ferramentas tecnológicas para organização, análise e visualização de dados.
 
 Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power BI, Google Colab e GitHub**, aplicando conceitos de informática à área da Logística.
+
 ---
 ## Atividade 1
 Esta atividade teve como objetivo promover a integração entre os integrantes do grupo, permitindo que cada participante apresentasse suas características, experiências e interesses pessoais, contribuindo para o desenvolvimento da comunicação e do trabalho em equipe.
