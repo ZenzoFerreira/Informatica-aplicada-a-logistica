@@ -1,3 +1,4 @@
+Esse repositório é sobre projetos de:
 # Informática aplicada a logística
 Esse repositório é sobre projetos da 
 ## Apresentação pessoal em equipe
