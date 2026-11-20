@@ -1,11 +1,14 @@
 # Informática aplicada a logística
-***Sobre este repositório***
+### Sobre este repositório
 
 Este repositório reúne as atividades e os projetos desenvolvidos durante a disciplina de **Informática Aplicada à Logística**, do curso de Logística da **Faculdade de Tecnologia de São José dos Campos (Fatec SJC)**.
 
 Seu objetivo é registrar e apresentar os conhecimentos adquiridos ao longo do semestre, principalmente na utilização de ferramentas tecnológicas para organização, análise e visualização de dados.
 
 Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power BI, Google Colab e GitHub**, aplicando conceitos de informática à área da Logística.
+
+### Índice de atividades
+- [Atividade 1 - Apresentação pessoal em equipe](#atividade-1---apresentação-pessoal-em-equipe)
 
 ---
 ## Atividade 1 - Apresentação pessoal em equipe
