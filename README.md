@@ -8,7 +8,7 @@ Seu objetivo é registrar e apresentar os conhecimentos adquiridos ao longo do s
 Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power BI, Google Colab e GitHub**, aplicando conceitos de informática à área da Logística.
 
 ---
-## Atividade 1
+## Atividade 1 - Apresentação pessoal em equipe
 Esta atividade teve como objetivo promover a integração entre os integrantes do grupo, permitindo que cada participante apresentasse suas características, experiências e interesses pessoais, contribuindo para o desenvolvimento da comunicação e do trabalho em equipe.
 <img width="1288" height="723" alt="Captura de tela 2026-08-20 215108" src="https://github.com/user-attachments/assets/c0b8a3aa-01b1-4d4d-a88e-3ab0f2373068" />
 
