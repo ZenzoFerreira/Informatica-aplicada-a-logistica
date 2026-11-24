@@ -29,11 +29,20 @@ Esta atividade teve como objetivo desenvolver habilidades de organização, trat
 <img width="1353" height="707" alt="Captura de tela 2026-10-23 141805" src="https://github.com/user-attachments/assets/37dd373d-f6a1-4bc2-9f67-c50d30ce5dca" />
 
 ---
-
-## Atividade 3 - 
 <a id="atividade-3"></a>
+## Atividade 3 - Análise de dados: Programa Forças no Esporte e Projeto João do Pulo
+
 [📁 Acessar arquivos da Atividade 3](Atividade%203/)
 
 Atividade desenvolvida a partir de uma base escolhida no portal de dados abertos, sendo ela: "https://dados.gov.br/dados/conjuntos-dados/programa-foras-no-esporte-e-projeto-joo-do-pulo", envolvendo a elaboração de cinco questões, que resultados apresentados foram feitos por meio de gráficos para facilitar a visualização e interpretação da informações.
 
 <img width="796" height="812" alt="Captura de tela 2026-11-24 145959" src="https://github.com/user-attachments/assets/e2c2a9e1-f526-4090-8937-6e4f5ede947d" />
+
+---
+.
+## Atividade 4 - 
+
+.
+
+.............
+
