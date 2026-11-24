@@ -10,7 +10,7 @@ Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power 
 ### Índice de atividades
 - [Atividade 1 - Apresentação pessoal em equipe](#atividade-1---apresentação-pessoal-em-equipe)
 - [Atividade 2 - Operadores de Transporte Multimodal (ANTT)](#atividade-2)
-- - [Atividade 3](#atividade-3)
+- [Atividade 3 - Análise de dados: Programa Forças no Esporte e Projeto João do Pulo](#atividade-3)
 ---
 ## Atividade 1 - Apresentação pessoal em equipe
 
