@@ -28,3 +28,12 @@ Esta atividade teve como objetivo desenvolver habilidades de organização, trat
 
 <img width="1353" height="707" alt="Captura de tela 2026-10-23 141805" src="https://github.com/user-attachments/assets/37dd373d-f6a1-4bc2-9f67-c50d30ce5dca" />
 
+---
+
+## Atividade 3 - 
+
+[📁 Acessar arquivos da Atividade 3](Atividade%203/)
+
+.....
+
+<img width="796" height="812" alt="Captura de tela 2026-11-24 145959" src="https://github.com/user-attachments/assets/e2c2a9e1-f526-4090-8937-6e4f5ede947d" />
