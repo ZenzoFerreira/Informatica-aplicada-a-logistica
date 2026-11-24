@@ -22,7 +22,7 @@ Esta atividade teve como objetivo promover a integração entre os integrantes d
 <a id="atividade-2"></a>
 ## Atividade 2 - Análise e modelagem de dados de Operadores de Transporte Multimodal (ANTT)
 
-
+[📁 Acessar arquivos da Atividade 2](Atividade%202/)
 
 Esta atividade teve como objetivo desenvolver habilidades de organização, tratamento e análise de dados utilizando planilhas do Microsoft Excel, com base em informações da Agência Nacional de Transportes Terrestres (ANTT) sobre Operadores de Transporte Multimodal (OTM).
 
