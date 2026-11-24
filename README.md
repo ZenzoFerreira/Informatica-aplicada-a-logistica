@@ -31,7 +31,7 @@ Esta atividade teve como objetivo desenvolver habilidades de organização, trat
 ---
 
 ## Atividade 3 - 
-
+<a id="atividade-3"></a>
 [📁 Acessar arquivos da Atividade 3](Atividade%203/)
 
 .....
