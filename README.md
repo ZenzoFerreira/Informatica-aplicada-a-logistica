@@ -9,7 +9,7 @@ Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power 
 
 ### Índice de atividades
 - [Atividade 1 - Apresentação pessoal em equipe](#atividade-1---apresentação-pessoal-em-equipe)
-
+- [Atividade 2 - Operadores de Transporte Multimodal (ANTT)](#atividade-2)
 ---
 ## Atividade 1 - Apresentação pessoal em equipe
 
@@ -19,6 +19,8 @@ Esta atividade teve como objetivo promover a integração entre os integrantes d
 <img width="1288" height="723" alt="Captura de tela 2026-08-20 215108" src="https://github.com/user-attachments/assets/c0b8a3aa-01b1-4d4d-a88e-3ab0f2373068" />
 
 ---
-## Atividade 2 - Atividade de informática operador multimodais
+## Atividade 2 - Análise e modelagem de dados de Operadores de Transporte Multimodal (ANTT)
+
 <img width="1353" height="707" alt="Captura de tela 2026-10-23 141805" src="https://github.com/user-attachments/assets/37dd373d-f6a1-4bc2-9f67-c50d30ce5dca" />
-Atividade desenvolvida para trabalhar a organização e análise da dados utilizando planilha dos dados ANTT. Foram realizadas questões envolvendo tratamento, interpretação e apresentação dos dados que feitos gráficos com essas informações.
+
+Esta atividade teve como objetivo desenvolver habilidades de organização, tratamento e análise de dados utilizando planilhas do Microsoft Excel, com base em informações da Agência Nacional de Transportes Terrestres (ANTT) sobre Operadores de Transporte Multimodal (OTM).
