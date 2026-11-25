@@ -52,11 +52,11 @@ Esta atividade teve como objetivo analisar uma base de dados da Agência Naciona
 
 ---
 <a id="atividade-5"></a>
-## Atividade 5 -
+## Atividade 5 - Consolidação e Análise Avançada de Dados no Power BI
 
 [📁 Acessar arquivos da Atividade 5](Atividade%205/)
 
-....
+Esta atividade teve como objetivo dar continuidade à análise de dados desenvolvida anteriormente no Excel, disponibilizadas em formato CSV no Portal Brasileiro de Dados Abertos.
 
 <img width="1426" height="799" alt="image" src="https://github.com/user-attachments/assets/e6ed16ad-26c8-4686-b964-cb2ceaeef838" />
 
