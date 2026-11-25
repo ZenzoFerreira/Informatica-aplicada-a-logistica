@@ -45,5 +45,8 @@ Atividade desenvolvida a partir de uma base escolhida no portal de dados abertos
 
 [📁 Acessar arquivos da Atividade 4](Atividade%204/)
 
-.............
+....
+
+<img width="1422" height="797" alt="image" src="https://github.com/user-attachments/assets/ca4f2485-9241-4dd8-b47c-84ba0fd17e2a" />
+
 
