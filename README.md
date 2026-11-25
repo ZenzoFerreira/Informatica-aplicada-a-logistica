@@ -41,11 +41,11 @@ Atividade desenvolvida a partir de uma base escolhida no portal de dados abertos
 
 ---
 <a id="atividade-4"></a>
-## Atividade 4 - 
+## Atividade 4 - Análise de Dados de Empresas Multimodais e Desenvolvimento de Dashboard Interativo 
 
 [📁 Acessar arquivos da Atividade 4](Atividade%204/)
 
-....
+Esta atividade teve como objetivo analisar uma base de dados da Agência Nacional de Transportes Terrestres (ANTT) referente a empresas de transporte multimodal, inicialmente trabalhada no Excel e posteriormente utilizada no Power BI para a construção de um painel interativo (Dashboard).
 
 <img width="1422" height="797" alt="image" src="https://github.com/user-attachments/assets/ca4f2485-9241-4dd8-b47c-84ba0fd17e2a" />
 
