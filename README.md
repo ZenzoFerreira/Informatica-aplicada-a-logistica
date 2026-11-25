@@ -11,6 +11,7 @@ Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power 
 - [Atividade 1 - Apresentação pessoal em equipe](#atividade-1---apresentação-pessoal-em-equipe)
 - [Atividade 2 - Operadores de Transporte Multimodal (ANTT)](#atividade-2)
 - [Atividade 3 - Análise de dados: Programa Forças no Esporte e Projeto João do Pulo](#atividade-3)
+- [Atividade 4 — Análise de Dados de Empresas Multimodais e Desenvolvimento de Dashboard Interativo](#atividade-4)
 ---
 ## Atividade 1 - Apresentação pessoal em equipe
 
