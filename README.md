@@ -13,6 +13,8 @@ Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power 
 - [Atividade 3 - Análise de dados: Programa Forças no Esporte e Projeto João do Pulo](#atividade-3)
 - [Atividade 4 - Análise de Dados de Empresas Multimodais e Desenvolvimento de Dashboard Interativo](#atividade-4)
 - [Atividade 5 - Consolidação e Análise Avançada de Dados no Power BI](#atividade-5)
+- [Atividade 6 - Incluíndo imagens URL no Power BI](#atividade-6)
+- [Atividade 7 - Análise de Regressão Linear: Vendas de Sorvete](#atividade-7)
 - [Prova de Informática - 1º Semestre](#prova-informatica)
 - [Certificado do Curso - Power BI para Gestão](#certificado-power-bi)
 ---
@@ -75,14 +77,25 @@ Nesta etapa, utilizamos uma base de dados governamental previamente tratada para
 
 ---
 <a id="atividade-7"></a>
-## Atividade 7 - Análise de Regressão Linear - Vendas de Sorvete
+## Atividade 7 - Análise de Regressão Linear: Vendas de Sorvete
 
-.
+[📁 Acessar arquivos da Atividade 7](Atividade%207/)
 
 Atividade iniciada com a extração de um dataset bruto da plataforma Kaggle. Os dados foram descompactados e estruturados no Excel convertendo o arquivo CSV (usando o recurso de dividir Texto para Colunas com separação por vírgula). Em seguida, foi construído um gráfico de dispersão mapeando as variáveis nos eixos X e Y, finalizando com a aplicação de uma linha de tendência (regressão linear) para a análise visual inicial.
 
 <img width="828" height="328" alt="image" src="https://github.com/user-attachments/assets/632cc4c9-ab38-4465-b2a7-0440ef138768" />
 
+---
+.
+## Atividade 8 - Dashboard de Expectativa de Vida e Regressão Linear
+
+.
+
+...
+
+.
+
+---
 
 <a id="prova-informatica"></a>
 ## Prova Info. - 1° Semestre
