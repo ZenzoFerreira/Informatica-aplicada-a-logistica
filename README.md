@@ -7,7 +7,7 @@ Seu objetivo é registrar e apresentar os conhecimentos adquiridos ao longo do s
 
 Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power BI, Google Colab e GitHub**, aplicando conceitos de informática à área da Logística.
 
-### Índice de atividades
+### Conteúdo do repositório
 - [Atividade 1 - Apresentação pessoal em equipe](#atividade-1---apresentação-pessoal-em-equipe)
 - [Atividade 2 - Operadores de Transporte Multimodal (ANTT)](#atividade-2)
 - [Atividade 3 - Análise de dados: Programa Forças no Esporte e Projeto João do Pulo](#atividade-3)
