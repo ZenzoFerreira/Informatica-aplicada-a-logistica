@@ -15,6 +15,7 @@ Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power 
 - [Atividade 5 - Consolidação e Análise Avançada de Dados no Power BI](#atividade-5)
 - [Atividade 6 - Incluíndo imagens URL no Power BI](#atividade-6)
 - [Atividade 7 - Análise de Regressão Linear: Vendas de Sorvete](#atividade-7)
+- [Atividade 8 - Dashboard de Expectativa de Vida e Regressão Linear](#atividade-8)
 - [Prova de Informática - 1º Semestre](#prova-informatica)
 - [Certificado do Curso - Power BI para Gestão](#certificado-power-bi)
 ---
