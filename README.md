@@ -11,10 +11,11 @@ Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power 
 - [Atividade 1 - Apresentação pessoal em equipe](#atividade-1---apresentação-pessoal-em-equipe)
 - [Atividade 2 - Operadores de Transporte Multimodal (ANTT)](#atividade-2)
 - [Atividade 3 - Análise de dados: Programa Forças no Esporte e Projeto João do Pulo](#atividade-3)
-- [Atividade 4 — Análise de Dados de Empresas Multimodais e Desenvolvimento de Dashboard Interativo](#atividade-4)
+- [Atividade 4 - Análise de Dados de Empresas Multimodais e Desenvolvimento de Dashboard Interativo](#atividade-4)
+- [Atividade 5 - Consolidação e Análise Avançada de Dados no Power BI](#atividade-5)
 ---
 ## Atividade 1 - Apresentação pessoal em equipe
-
+Atividade 5 - Consolidação e Análise Avançada de Dados no Power BI
 [📁 Acessar arquivos da Atividade 1](Atividade%201/)
 
 Esta atividade teve como objetivo promover a integração entre os integrantes do grupo, permitindo que cada participante apresentasse suas características, experiências e interesses pessoais, contribuindo para o desenvolvimento da comunicação e do trabalho em equipe.
