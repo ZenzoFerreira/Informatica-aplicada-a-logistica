@@ -86,14 +86,14 @@ Atividade iniciada com a extração de um dataset bruto da plataforma Kaggle. Os
 <img width="828" height="328" alt="image" src="https://github.com/user-attachments/assets/632cc4c9-ab38-4465-b2a7-0440ef138768" />
 
 ---
-.
+<a id="atividade-8"></a>
 ## Atividade 8 - Dashboard de Expectativa de Vida e Regressão Linear
 
-.
+[📁 Acessar arquivos da Atividade 8](Atividade%208/)
 
-...
+Extração de um dataset acadêmico do GitHub para testar a correlação entre o tempo de estudo e o desempenho. Foi construído um gráfico de dispersão com a aplicação de uma linha de tendência linear, comprovando visual e estatisticamente a hipótese de que mais horas de estudo estão associadas a notas maiores.
 
-.
+<img width="854" height="359" alt="image" src="https://github.com/user-attachments/assets/b13dd180-36a1-4419-9c8a-55ce57909b30" />
 
 ---
 
