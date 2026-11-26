@@ -65,15 +65,25 @@ Esta atividade teve como objetivo dar continuidade à análise de dados desenvol
 
 ---
 <a id="atividade-6"></a>
-## Atividade 6 -
+## Atividade 6 - Incluíndo imagens URL no Power BI
 
 [📁 Acessar arquivos da Atividade 6](Atividade%206/)
 
-...
+Nesta etapa, utilizamos uma base de dados governamental previamente tratada para aprofundar as técnicas de modelagem no Power BI. O foco técnico da atividade foi a criação de uma tabela dimensional e o estabelecimento de um relacionamento de cardinalidade "1 para muitos" com a base principal.
 
 <img width="1400" height="786" alt="image" src="https://github.com/user-attachments/assets/772c8016-b030-4eaf-bb10-32188df7477c" />
 
 ---
+<a id="atividade-7"></a>
+## Atividade 7 - Análise de Regressão Linear - Vendas de Sorvete
+
+.
+
+Atividade iniciada com a extração de um dataset bruto da plataforma Kaggle. Os dados foram descompactados e estruturados no Excel convertendo o arquivo CSV (usando o recurso de dividir Texto para Colunas com separação por vírgula). Em seguida, foi construído um gráfico de dispersão mapeando as variáveis nos eixos X e Y, finalizando com a aplicação de uma linha de tendência (regressão linear) para a análise visual inicial.
+
+<img width="828" height="328" alt="image" src="https://github.com/user-attachments/assets/632cc4c9-ab38-4465-b2a7-0440ef138768" />
+
+
 <a id="prova-informatica"></a>
 ## Prova Info. - 1° Semestre
 
