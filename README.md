@@ -72,13 +72,22 @@ Esta atividade teve como objetivo dar continuidade à análise de dados desenvol
 <img width="1400" height="786" alt="image" src="https://github.com/user-attachments/assets/772c8016-b030-4eaf-bb10-32188df7477c" />
 
 ---
-## Prova
+.
+## Prova Info. - 1° Semestre
 
+.
 
 ---
+.
 ## Certificado do Curso - Aplicação do Power BI para Aprimoramento da Gestão
 
+.
+
+Curso: https://www.escolavirtual.gov.br/cursos/aplicacao-do-power-bi-para-aprimoramento-da-gestao
+
 <img width="1119" height="789" alt="image" src="https://github.com/user-attachments/assets/d9025436-4057-441c-97e0-b48770ddba67" />
+
+---
 
 
 
