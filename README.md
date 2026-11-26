@@ -17,7 +17,7 @@ Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power 
 - [Certificado do Curso - Power BI para Gestão](#certificado-power-bi)
 ---
 ## Atividade 1 - Apresentação pessoal em equipe
-Atividade 5 - Consolidação e Análise Avançada de Dados no Power BI
+
 [📁 Acessar arquivos da Atividade 1](Atividade%201/)
 
 Esta atividade teve como objetivo promover a integração entre os integrantes do grupo, permitindo que cada participante apresentasse suas características, experiências e interesses pessoais, contribuindo para o desenvolvimento da comunicação e do trabalho em equipe.
