@@ -13,6 +13,8 @@ Entre as atividades desenvolvidas, destacam-se a utilização do **Excel, Power 
 - [Atividade 3 - Análise de dados: Programa Forças no Esporte e Projeto João do Pulo](#atividade-3)
 - [Atividade 4 - Análise de Dados de Empresas Multimodais e Desenvolvimento de Dashboard Interativo](#atividade-4)
 - [Atividade 5 - Consolidação e Análise Avançada de Dados no Power BI](#atividade-5)
+- [📝 Prova de Informática - 1º Semestre](#prova-informatica)
+- [📜 Certificado do Curso - Power BI para Gestão](#certificado-power-bi)
 ---
 ## Atividade 1 - Apresentação pessoal em equipe
 Atividade 5 - Consolidação e Análise Avançada de Dados no Power BI
@@ -72,16 +74,16 @@ Esta atividade teve como objetivo dar continuidade à análise de dados desenvol
 <img width="1400" height="786" alt="image" src="https://github.com/user-attachments/assets/772c8016-b030-4eaf-bb10-32188df7477c" />
 
 ---
-.
+<a id="prova-informatica"></a>
 ## Prova Info. - 1° Semestre
 
-.
+[📁 Acessar arquivos da Prova de Informática](Prova%20Inform%C3%A1tica/)
 
 ---
-.
-## Certificado do Curso - Aplicação do Power BI para Aprimoramento da Gestão
+<a id="certificado-power-bi"></a>
+## Certificado do curso - Aplicação do Power BI para Aprimoramento da Gestão
 
-.
+[📁 Acessar certificado do curso](Certificado%20de%20curso/)
 
 Curso: https://www.escolavirtual.gov.br/cursos/aplicacao-do-power-bi-para-aprimoramento-da-gestao
 
