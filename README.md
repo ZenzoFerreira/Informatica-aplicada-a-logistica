@@ -79,13 +79,19 @@ Esta atividade teve como objetivo dar continuidade à análise de dados desenvol
 
 [📁 Acessar arquivos da Prova de Informática](Prova%20Inform%C3%A1tica/)
 
+Tópicos da prova
+- Planilhas eletrônicas (Excel)
+- Dados abertos
+- Construção de dashboard (Power BI)
+- IA
+- Fonte dos dados: https://repositorio.seade.gov.br/organization/seade
 ---
 <a id="certificado-power-bi"></a>
-## Certificado do curso - Aplicação do Power BI para Aprimoramento da Gestão
+## Certificado do Curso - Aplicação do Power BI para Aprimoramento da Gestão
 
-[📁 Acessar certificado do curso](Certificado%20de%20curso/)
+[📁 Acessar certificado do Curso](Certificado%20de%20Curso/)
 
-Curso: https://www.escolavirtual.gov.br/cursos/aplicacao-do-power-bi-para-aprimoramento-da-gestao
+- Curso: https://www.escolavirtual.gov.br/cursos/aplicacao-do-power-bi-para-aprimoramento-da-gestao
 
 <img width="1119" height="789" alt="image" src="https://github.com/user-attachments/assets/d9025436-4057-441c-97e0-b48770ddba67" />
 
