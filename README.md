@@ -62,8 +62,24 @@ Esta atividade teve como objetivo dar continuidade à análise de dados desenvol
 <img width="1426" height="799" alt="image" src="https://github.com/user-attachments/assets/e6ed16ad-26c8-4686-b964-cb2ceaeef838" />
 
 ---
-.
+<a id="atividade-6"></a>
+## Atividade 6 -
+
+[📁 Acessar arquivos da Atividade 6](Atividade%206/)
+
+...
+
 <img width="1400" height="786" alt="image" src="https://github.com/user-attachments/assets/772c8016-b030-4eaf-bb10-32188df7477c" />
+
+---
+## Prova
+
+
+---
+## Certificado do Curso - Aplicação do Power BI para Aprimoramento da Gestão
+
+<img width="1119" height="789" alt="image" src="https://github.com/user-attachments/assets/d9025436-4057-441c-97e0-b48770ddba67" />
+
 
 
 
